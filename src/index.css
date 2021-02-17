@@ -1,0 +1,958 @@
+/*===========Login Page=========== */
+.logincolumn {
+
+  max-width: 65%;
+  max-height: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.my-facebook-button-class {
+  display: block;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+/*===========Winner Page=========== */
+.xunbaoIconwinner {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.xunbaoTextwinner {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -1rem;
+}
+
+.xunbaowinnerpage {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.WinnerImage {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid goldenrod;
+  border-radius: 50%;
+
+}
+
+.WinnerText {
+  width: 30%;
+  text-align: center;
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.5rem;
+  margin-left: 10.5rem;
+
+}
+
+
+/*===========Main Page=========== */
+
+html {
+  height: 100%;
+  max-width: 1520px;
+  font-size: 100%;
+}
+
+body {
+
+  background-image: url("./Main/icons/background.png");
+  background-repeat: repeat;
+  background-size: 1537px 800px;
+}
+
+@font-face {
+  font-family: 'Geomancy Extra Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Geomancy Extra Bold'), url('Geomancy - Extra Bold.woff') format('woff');
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.iconSize {
+  height: 110px;
+  width: 110px;
+}
+
+.leftIcons {
+  margin-left: 30px;
+}
+
+.rightIcons {
+  margin-left: 120px;
+}
+
+.icon2 {
+  margin-top: 20px;
+}
+
+.icon3 {
+  margin-top: 300px;
+}
+
+.xunbaoIcon {
+  width: 70%;
+  margin-top: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.underlineIcon {
+  width: 70%;
+  margin-top: -25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.xunbaoText {
+  margin-top: -13px;
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.startButton {
+  width: 18%;
+  margin-top: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hideMobile {
+  display: none;
+
+}
+
+/*===========Columns=========== */
+.col4 {
+  float: left;
+  width: 25%;
+
+
+}
+
+.MobileIconsAlignment {
+  width: 100%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.col2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.col3 {
+  float: left;
+  width: 50%;
+
+}
+
+.col1 {
+  margin-left: 12.5rem;
+}
+
+.col5 {
+  width: 20%;
+}
+
+.col10 {
+  width: 20%;
+  float: left;
+}
+
+.col95 {
+  float: left;
+  width: 93%;
+  text-align: center;
+}
+
+.col60 {
+  float: left;
+  width: 60%;
+}
+
+.col555 {
+  float: left;
+  width: 7%;
+}
+
+.col80 {
+  float: left;
+  width: 60%;
+}
+
+.mobileiconscssupper {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 70%;
+  margin-bottom: 1rem;
+
+}
+
+.mobileiconscsslower {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 40%;
+  margin-top: 1rem;
+}
+
+/*===========Rules Page=========== */
+
+.RulesContainer {
+  margin-top: 1rem;
+  background-color: black;
+  border-radius: 7%;
+  border: 0.4rem solid #Fda212;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+
+.RulesList {
+  color: #Fda212;
+  font-family: Geomancy Extra Bold;
+  font-size: 1.9rem;
+
+}
+
+.RulesListStartGame {
+  color: #Fda212;
+  font-family: Geomancy Extra Bold;
+  font-size: 1.8rem;
+
+}
+
+.StartTheGame {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 40%;
+}
+
+/*===========Developers Page=========== */
+
+.DevelopersText {
+  color: #Fda212;
+  font-family: Geomancy Extra Bold;
+  font-size: 300%;
+  text-align: center;
+}
+
+.Developershr {
+  border-top: 3px solid #Fda212;
+  min-width: 40%;
+  max-width: 40%;
+}
+
+.DevelopersImage {
+
+  width: 60%;
+  height: 35%;
+  border: 0.4rem solid #Fda212;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6rem;
+
+}
+
+.DevelopersImgText {
+  margin-top: .8rem;
+  color: white;
+  font-family: Geomancy Extra Bold;
+  font-size: 1.9rem;
+  text-align: center;
+}
+
+.DevelopersDesignation {
+  color: white;
+  font-family: Geomancy Extra Bold;
+  font-size: 1.0rem;
+  text-align: center;
+  margin-top: -1.2rem;
+  margin-bottom: 7rem
+}
+
+/*===========Scrollbar=========== */
+
+.scrollbar {
+  margin-left: 5px;
+  float: left;
+  height: 400px;
+  width: 100%;
+  background: transparent;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  margin-bottom: 25px;
+}
+
+.force-overflow {
+  min-height: 450px;
+}
+
+#wrapper {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+
+#style-2::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+#style-2::-webkit-scrollbar {
+  width: 12px;
+  background-color: transparent;
+}
+
+#style-2::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+  background-color: #Fda212;
+}
+
+
+
+/*===========Leaderboard Page=========== */
+.Learedboardfinish {
+  color: rgb(29, 196, 126);
+  font-family: Geomancy Extra Bold;
+  font-size: 5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+
+.LeaderboardContainer {
+  margin-top: 1rem;
+  border-radius: 7%;
+  border: 0.4rem solid #Fda212;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+  height: 100%;
+  background-image: url("./Main/icons/sky.jpg");
+  background-size: 100%;
+}
+
+.LeaderboardHeading {
+  color: #Fda212;
+  font-family: Geomancy Extra Bold;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.LeaderboardText {
+  color: white;
+  font-family: Geomancy Extra Bold;
+  text-align: center;
+  font-size: 1.5rem;
+
+}
+
+.Leaderboardpic {
+
+  border: 2px solid #Fda212;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/*===========Question Page=========== */
+
+.QuestionHeading {
+  color: rgb(177, 175, 175);
+  font-family: Geomancy Extra Bold;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.Questionhr {
+  border-top: 3px solid rgb(177, 175, 175);
+  width: 13rem;
+  margin-top: -0.3rem;
+}
+
+.QuestionText {
+  color: #Fda212;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.7rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-weight: 800;
+}
+
+#AnswerField {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+  margin-top: 1.5rem;
+
+}
+
+
+.QuestionPageContainer {
+  margin-top: 1rem;
+  background-image: url("./Main/icons/stars.jpg");
+  border-radius: 7%;
+  border: 0.4rem solid rgb(233, 66, 25);
+  padding: 3rem 1.5rem 1.5rem 1.5rem;
+  width: 66.6%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+.hint_button {
+
+  background: url("./Main/icons/hint.png") no-repeat;
+  width: 60px;
+  height: 60px;
+  background-size: 100% 100%;
+  border-color: transparent;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+
+
+}
+
+
+
+#submitbuttoncall {
+  background: url("./Main/icons/submit.png") no-repeat;
+  height: 100px;
+  width: 200px;
+  background-size: 100% 100%;
+  padding: 0px 0px 0px 0px;
+  border-color: transparent;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#modeltexthint {
+  text-align: center;
+  color: rgb(41, 128, 226);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+
+
+}
+
+#statustext {
+  text-align: center;
+  color: rgb(17, 224, 62);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.wronganswertext {
+  text-align: center;
+  color: rgba(247, 38, 38, 0.904);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+
+/*===========User Page=========== */
+
+#user_image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 4px solid #Fda212;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#user_text {
+  font-family: Geomancy Extra Bold;
+  margin-top: 0.8rem;
+  color: #Fda212;
+  margin-left: 1rem;
+
+}
+
+.userimageis {
+  padding-left: 400px;
+}
+
+/*===========Modal Page=========== */
+
+
+
+.modal-header {
+
+  background-color: #Fda212;
+  color: white;
+}
+
+/*===========Different Mobiles=========== */
+
+@media only screen and (max-width: 365px) and (min-width:340px) {
+
+  .mobilecolumn {
+
+    margin-left: 1.6rem;
+
+  }
+
+  .questionpageimg {
+    margin-right: 1.3rem;
+  }
+
+}
+
+@media only screen and (max-width: 340px) and (min-width:300px) {
+
+  .mobilecolumn {
+
+    margin-left: 1.85rem;
+
+  }
+
+  .questionpageimg {
+    margin-right: 0.3rem;
+  }
+}
+
+@media only screen and (max-width: 388px) and (min-width:365px) {
+
+  .mobilecolumn {
+
+    margin-left: 1.85rem;
+
+  }
+
+  .questionpageimg {
+    margin-right: 1.1rem;
+  }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 500px) and (min-width:388px) {
+
+  .mobilecolumn {
+
+    margin-left: 3.4rem;
+
+  }
+
+  .questionpageimg {
+    margin-right: 0.6rem;
+  }
+}
+
+
+
+
+/*===========Mobile Page=========== */
+@media only screen and (max-width: 500px) {
+
+  html {
+    height: 100%;
+    max-width: 360px;
+    font-size: 100%;
+
+    width: 100%;
+  }
+
+  body {
+
+    background-image: url("./Main/icons/background.png");
+    background-repeat: repeat;
+    background-size: 1537px 700px;
+    max-width: 400px;
+  }
+
+
+  .hide {
+    display: none;
+
+  }
+
+
+
+  .hideMobile {
+    display: inline-block;
+
+  }
+
+  .RulesContainer {
+    margin-top: 10px;
+    background-color: black;
+    border-radius: 7%;
+    border: 2px solid #Fda212;
+    padding: 15px 15px 15px 15px;
+  }
+
+  .RulesList {
+    color: #Fda212;
+    font-family: Geomancy Extra Bold;
+    font-size: 0.9rem;
+
+  }
+
+  .DevelopersImage {
+
+    width: 50%;
+    border: 0.4rem solid #Fda212;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.2rem;
+    height: 60%;
+
+  }
+
+  .DevelopersImgText {
+    margin-top: .8rem;
+    color: white;
+    font-family: Geomancy Extra Bold;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .DevelopersDesignation {
+    color: white;
+    font-family: Geomancy Extra Bold;
+    font-size: 1.0rem;
+    text-align: center;
+    margin-top: -1.2rem;
+    margin-bottom: 0.5rem
+  }
+
+  .DevelopersText {
+    color: #Fda212;
+    font-family: Geomancy Extra Bold;
+    font-size: 200%;
+    text-align: center;
+  }
+
+  .Developershr {
+    border-top: 3px solid #Fda212;
+
+  }
+
+  .RulesListStartGame {
+    color: #Fda212;
+    font-family: Geomancy Extra Bold;
+    font-size: 0.85rem;
+
+  }
+
+  .StartTheGame {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 50%;
+  }
+
+  .LeaderboardHeading {
+    color: #Fda212;
+    font-family: Geomancy Extra Bold;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .LeaderboardText {
+    color: white;
+    font-family: Geomancy Extra Bold;
+    font-size: 0.8rem;
+    text-align: center;
+  }
+
+  .xunbaoIcon {
+    width: 95%;
+    margin-top: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .underlineIcon {
+    width: 90%;
+    margin-top: -10px;
+    height: 8%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .xunbaoText {
+    margin-top: 0.5rem;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .startButton {
+    width: 35%;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .QuestionPageContainer {
+    margin-top: 1rem;
+    background-color: black;
+    border-radius: 7%;
+    border: 0.4rem solid #Fda212;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+
+  #user_image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 4px solid #Fda212;
+    display: block;
+    margin-right: 3rem;
+    margin-left: auto;
+  }
+
+  #user_text {
+    font-family: Geomancy Extra Bold;
+    margin-top: 0.8rem;
+    color: #Fda212;
+    margin-left: -2.4rem;
+
+  }
+
+  .QuestionHeading {
+    color: rgb(177, 175, 175);
+    font-family: Geomancy Extra Bold;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+
+  .Questionhr {
+    border-top: 3px solid rgb(177, 175, 175);
+    width: 10rem;
+    margin-top: -0.3rem;
+  }
+
+  .QuestionText {
+    color: #Fda212;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+
+  .hint_button {
+
+    background: url("./Main/icons/hint.png") no-repeat;
+    width: 35px;
+    height: 35px;
+    background-size: 100% 100%;
+    border-color: transparent;
+
+    margin-left: -0.3rem;
+
+    margin-top: 1.5rem;
+
+
+  }
+
+
+
+  #submitbuttoncall {
+    background: url("./Main/icons/submit.png") no-repeat;
+    height: 50px;
+    width: 100px;
+    background-size: 100% 100%;
+    padding: 0px 0px 0px 0px;
+    border-color: transparent;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #AnswerField {
+    width: 90%;
+    padding: 6px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+
+  }
+
+  .userimageis {
+    padding-left: 40px;
+    margin-top: 0rem;
+    width: 72%;
+
+  }
+
+  .usertextis {
+    padding-left: 18px;
+    margin-top: 1rem;
+  }
+
+
+
+  #statustext {
+    text-align: center;
+    color: rgb(17, 224, 62);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.4rem;
+  }
+
+  .wronganswertext {
+    text-align: center;
+    color: rgba(247, 38, 38, 0.904);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.4rem;
+  }
+
+  .scrollbar {
+    margin-left: 5px;
+    float: left;
+    height: 280px;
+    width: 100%;
+    background: transparent;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-bottom: 25px;
+  }
+
+  .thanks {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 2rem;
+
+
+  }
+
+  .Learedboardfinish {
+    color: red;
+    font-family: Geomancy Extra Bold;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+  .xunbaoIconwinner {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  .xunbaoTextwinner {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0rem;
+  }
+
+  .xunbaowinnerpage {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .WinnerImage {
+    margin-top: 2rem;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid goldenrod;
+    border-radius: 50%;
+
+  }
+
+  .WinnerText {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1rem;
+    margin-left: 0rem;
+    margin-top: 1rem;
+
+  }
+}
